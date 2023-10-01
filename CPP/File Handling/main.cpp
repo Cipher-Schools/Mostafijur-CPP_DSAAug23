@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	string s = "CPP Sessions at LPU";
 	char c;
 	
-	fout.open("dat.txt", ios::out); //trunc
+	fout.open("dat.txt", ios::out); 
 	
 	fout<<s;
 	*/
